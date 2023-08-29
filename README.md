@@ -17,7 +17,7 @@ Desde mis inicios de estudios universitarios de Ingeniería, nacio en mi una pas
 
 ## ¿Que Hago?📊
 <h3>
-Actualmente me dedico a mi formacion y crecimiento tanto personal como profesional, adquiriendo experiencia y nuevos conocimientos a medida que avanzo en mi Bootcam de Henry y la oportunidad de trabajar para Huntek  <a href="https://huntek.vercel.app/login" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4E0BAQEdI_mEuYh2Qg/company-logo_200_200/0/1685993189788?e=1698883200&v=beta&t=jcWaBYc2QZNLxnjAnc6A_NLtmGYyZDXW4cwhucmscgM" alt="" width="40" height="40"/> </a>  en mis pasantias como desarrollador Back-end
+Actualmente me dedico a mi formacion y crecimiento tanto personal como profesional, adquiriendo experiencia y nuevos conocimientos a medida que avanzo en mi Bootcam de Henry y la oportunidad de trabajar para Huntek  <a href="https://huntek.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4E0BAQEdI_mEuYh2Qg/company-logo_200_200/0/1685993189788?e=1698883200&v=beta&t=jcWaBYc2QZNLxnjAnc6A_NLtmGYyZDXW4cwhucmscgM" alt="" width="40" height="40"/> </a>  en mis pasantias como desarrollador Back-end
 </h3>
 <br>
 <br>
